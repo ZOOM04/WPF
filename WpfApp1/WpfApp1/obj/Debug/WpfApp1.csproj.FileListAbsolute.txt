@@ -1,0 +1,136 @@
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.g.cs
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.baml
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.g.cs
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.baml
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\AddNewWindow1.g.cs
+C:\Users\PC2\Desktop\WpfApp1\WpfApp1\obj\Debug\AddNewWindow1.baml
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.g.cs
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.g.cs
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.g.cs
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.baml
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.baml
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.baml
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\salik\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.g.cs
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.g.cs
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.g.cs
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.baml
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.baml
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.baml
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\salik\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.g.cs
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.g.cs
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.g.cs
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.baml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.baml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.baml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\dbViewPage.g.cs
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\dbViewPage.baml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Пользователь\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\dbViewPage.g.cs
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.g.cs
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.g.cs
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.g.cs
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\dbViewPage.baml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\AddNewWindow1.baml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\MainPage.baml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\Views\Pages\Page1.baml
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ZOOM\Desktop\работа WPF\TEST\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

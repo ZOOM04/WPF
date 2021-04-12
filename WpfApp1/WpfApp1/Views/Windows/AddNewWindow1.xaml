@@ -1,0 +1,103 @@
+﻿<Window x:Class="WpfApp1.AddNewWindow1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="AddNewWindow1" Height="600" Width="800"  Loaded="Window_Loaded">
+
+    <Grid Background="#E0FFFF">
+
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    
+                    Width="250">
+
+            <StackPanel>
+                <TextBlock Text="Ф.И.О:"
+                       FontFamily="Georgia"/>
+                <TextBox Name="TBox" TextChanged="TBox_TextChanged"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Дата рождения:"
+                           FontFamily="Georgia"/>
+                <DatePicker Name="DPicker"/>
+            </StackPanel>
+
+            <StackPanel >
+                <TextBlock Text="Серия паспорта:"
+                           FontFamily="Georgia"/>
+                <TextBox Name="TBox2"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Номер паспорта:"
+                           FontFamily="Georgia"/>
+                <TextBox Name="TBox3"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Телефон:"
+                           FontFamily="Georgia"/>
+                <TextBox Name="TBox4"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="E-mail:"
+                           FontFamily="Georgia"/>
+                <TextBox Name="TBox5"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Номер страхового полиса:"
+                           FontFamily="Georgia"/>
+                <TextBox Name="TBox6"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Тип страхового полиса:"
+                           FontFamily="Georgia"/>
+                <ComboBox Name="CBox"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Название страховой компании:"
+                           FontFamily="Georgia"/>
+                <ComboBox Name="CBox2" />
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Должность:"
+                           FontFamily="Georgia"/>
+                <TextBox Name="TBox7"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Пол:"
+                           FontFamily="Georgia"/>
+                <TextBox Name="TBox8"/>
+            </StackPanel>
+
+        <Button Margin="0,15,0,0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Width="150"
+                Height="35"
+                Content="Добавить"
+                Click="BtnDob_Click"
+                Background="#FF6347"/>
+
+            <Button Margin="0,5,0,0"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Width="150"
+                    Height="35"
+                    Content="Закрыть"
+                    Background="#FF6347"
+                    Click="BtnDob2_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

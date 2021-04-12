@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище UserModelContainer" CdmEntityContainer="UserEntities">
+    <EntitySetMapping Name="NOT">
+      <EntityTypeMapping TypeName="UserModel.NOT">
+        <MappingFragment StoreEntitySet="NOT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NameOfTheInsuranceCompany" ColumnName="NameOfTheInsuranceCompany" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TOP">
+      <EntityTypeMapping TypeName="UserModel.TOP">
+        <MappingFragment StoreEntitySet="TOP">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TypeOfInsurancePolicy" ColumnName="TypeOfInsurancePolicy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="UserModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="PassportSeries" ColumnName="PassportSeries" />
+          <ScalarProperty Name="PassportNumber" ColumnName="PassportNumber" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="InsurancePolicyNumber" ColumnName="InsurancePolicyNumber" />
+          <ScalarProperty Name="TypeOfInsurancePolicy" ColumnName="TypeOfInsurancePolicy" />
+          <ScalarProperty Name="NameOfTheInsuranceCompany" ColumnName="NameOfTheInsuranceCompany" />
+          <ScalarProperty Name="Post" ColumnName="Post" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

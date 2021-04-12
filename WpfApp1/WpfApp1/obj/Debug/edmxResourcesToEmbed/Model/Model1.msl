@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище UserModelContainer" CdmEntityContainer="UserEntities2">
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="UserModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Gendercod" ColumnName="Gendercod" />
+          <ScalarProperty Name="Post" ColumnName="Post" />
+          <ScalarProperty Name="NameOfTheInsuranceCompany" ColumnName="NameOfTheInsuranceCompany" />
+          <ScalarProperty Name="TypeOfInsurancePolicy" ColumnName="TypeOfInsurancePolicy" />
+          <ScalarProperty Name="InsurancePolicyNumber" ColumnName="InsurancePolicyNumber" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="PassportNumber" ColumnName="PassportNumber" />
+          <ScalarProperty Name="PassportSeries" ColumnName="PassportSeries" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
