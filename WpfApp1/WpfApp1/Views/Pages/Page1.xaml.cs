@@ -27,7 +27,7 @@ namespace WpfApp1
 
         private void Btn_Click(object sender, RoutedEventArgs e)
         {
-            if (TBLogin.Text == "1" && PBPassword.Password == "1s")
+            if (TBLogin.Text == "Ppss" && PBPassword.Password == "121212")
             {
                 NavigationService.Navigate(new MainPage());
             }

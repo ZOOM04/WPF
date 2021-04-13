@@ -24,7 +24,7 @@ namespace WpfApp1.Views.Pages
         public dbViewPage()
         {
             InitializeComponent();
-            s.ItemsSource = AppData.db.User.ToList();
+          
         }
 
         private void BtnB_Click(object sender, RoutedEventArgs e)
@@ -34,7 +34,21 @@ namespace WpfApp1.Views.Pages
 
         private void BtnE_Click(object sender, RoutedEventArgs e)
         {
+            User db = (User) s.SelectedItem; 
+            if (MessageBox.Show("Вы уверены?", "Уведомление", MessageBoxButton.YesNo,  MessageBoxImage.Question ) == MessageBoxResult.Yes)
+            {
+                if (db != null)
+                {
+                    AppData.db.User.Remove(db);
+                    AppData.db.SaveChanges();
+                    Page_Loaded(null, null);
+                }
+            }
+        }
 
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            s.ItemsSource = AppData.db.User.ToList();
         }
     }
 }

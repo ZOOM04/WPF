@@ -28,7 +28,8 @@ namespace WpfApp1
 
         private void BtnDob_Click(object sender, RoutedEventArgs e)
         {
-            var current = AppData.db.User.FirstOrDefault(item => item.TypeOfInsurancePolicy == item.TOP.ID);
+            var current = AppData.db.TOP.FirstOrDefault(item => item.TypeOfInsurancePolicy == CBox.Text  );
+            var cops = AppData.db.NOT.FirstOrDefault(item => item.NameOfTheInsuranceCompany == CBox2.Text);
 
             User NewUser = new User()
             {
@@ -41,9 +42,12 @@ namespace WpfApp1
                 Email = TBox5.Text,
                 InsurancePolicyNumber = Convert.ToInt32(TBox6.Text),
                 Post = TBox7.Text,
+                NameOfTheInsuranceCompany = cops.ID,
+                TypeOfInsurancePolicy = current.ID,
             };
             AppData.db.User.Add(NewUser);
             AppData.db.SaveChanges();
+            MessageBox.Show("Данные внесены!");
 
             this.Hide();
         }
@@ -62,7 +66,7 @@ namespace WpfApp1
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             CBox.ItemsSource = AppData.db.TOP.Select(Item => Item.TypeOfInsurancePolicy).ToList();
-
+            CBox2.ItemsSource = AppData.db.NOT.Select(Item => Item.NameOfTheInsuranceCompany).ToList();
         }
     }
 }
